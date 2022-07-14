@@ -1,0 +1,21 @@
+h2{
+    color: rgba(25, 244, 193, 0.844);
+    margin-left: 20px;
+    font-family: Oswald, sans-serif;
+    
+}
+th{
+    color: black;
+    background-color: rgba(0, 255, 17, 0.916);
+}
+td{
+    background-color: red;
+    color: #fff;
+}
+body{
+    text-align: center;
+}
+.tabless
+{
+    text-align: center;
+}

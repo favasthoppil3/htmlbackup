@@ -1,0 +1,26 @@
+div
+{
+    background-color: aqua;
+    width: 20%;
+    height: 60%;
+    margin: 35px;
+    float: left;
+    border-radius: 5px;
+}
+img
+{
+    width: 100%;
+    height: 70%;
+    border-radius: 5px;
+    
+}
+body
+{
+
+}
+h4,p
+{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    
+}

@@ -1,0 +1,105 @@
+body
+{
+    margin: 0;
+}
+.mainpart
+{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.718), rgba(0, 0, 0, 0.652)), url("foodimages/background1.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    color: #fff;
+    
+}
+.secondmain
+{
+    width: 60%;
+    height: 80%;
+    display: flex;
+    justify-content:center;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.764), rgba(255, 255, 255, 0.673));   
+}
+h2
+{
+    color: #fff;
+    text-align: center;
+    position: relative;
+    top: 30px;
+}
+.main
+{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.718), rgba(0, 0, 0, 0.9));
+    background-color: black;
+    width: 40%;
+    height: 110%;
+    position: relative;
+    bottom:30px;
+    margin-left: 220px;
+    
+
+    
+}
+input
+{
+    margin: 10px;
+    margin-left: 60px;
+    width: 250px;
+    height: 35px;
+    border-radius:;
+    outline: none;
+    border-top:none;
+    border-right:none;
+    border-left:none;
+    padding: 10px;
+    background: none;
+    border-bottom:1px solid #fff;
+    color: #fff;
+}
+.register
+{
+    
+    position: relative  ;
+    height: 50%;
+    width: 100%;
+    top:40px;
+}
+.firstname
+{
+    width: 100px;
+}
+.lastname
+{
+    margin-left:35px ;
+    width:100px ;
+}
+.terms
+{
+    width: auto;
+    
+    
+}
+button
+{
+    background-color:#fff;
+    width: 150px;
+    height: 40px;
+    display: block;
+    border-radius: 10px;
+    font-size: 1rem;
+    padding: 5px;
+    margin: 30px auto;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    color: black;
+}
+button:hover
+{
+    background-color: aliceblue;
+}

@@ -1,0 +1,31 @@
+div
+{
+    background-color: aqua;
+    width: 50%;
+    height: 6   0%;
+    margin: 100px;
+}
+p
+{
+    padding: 20px;
+    
+}
+#P1
+{
+    text-decoration: underline;
+
+}
+span
+{
+    text-decoration: none;
+    background-color: red;
+    font-size: 20px;
+}
+#p3
+{
+    text-shadow: 5px 5px 5px black;
+}
+#p2
+{
+    text-decoration: line-through;
+}
